@@ -1,6 +1,8 @@
-# README.md
 
-# Next.js ODPS Validator
+# ODPS Validator
+[![GitHub release](https://img.shields.io/github/release/offline-agency/odps-validator?include_prereleases=&sort=semver&color=blue)](https://github.com/offline-agency/odps-validator/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - odps-validator](https://img.shields.io/github/issues/offline-agency/odps-validator)](https://github.com/offline-agency/odps-validator/issues)
 
 This project provides a Next.js web application to validate YAML or JSON content against different versions of the ODPS (Open Data Product Schema) JSON Schema.
 
@@ -87,17 +89,11 @@ npm start
 
 This project is licensed under the [MIT License](LICENSE).
 
-© 2024 [Offline Agency](https://offlineagency.it). All rights reserved.
+© 2025 [Offline Agency](https://offlineagency.it). All rights reserved.
 
 ## Contributors
 
 Built and maintained by [Offline Agency](https://offlineagency.it).
 
-We welcome contributions! Please open a pull request or issue on [GitHub](https://github.com/yourusername/nextjs-odps-validator).
+We welcome contributions! Please open a pull request or issue on [Github](https://github.com/offline-agency/odps-validator/issues)
 
-## Contact
-
-📬 For support or questions:
-
-* GitHub Issues: [odps-validator](https://github.com/offline-agency/odps-validator/issues)
-* Website: [offlineagency.it](https://offlineagency.it)
