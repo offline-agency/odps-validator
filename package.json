@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-odps-validator",
+  "author": {
+    "email": "support@offlineagency.it",
+    "name": "Offline Agency",
+    "url": "https://offlineagency.it"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "bootstrap": "^5.0.0",
+    "js-yaml": "^4.1.0",
+    "ajv": "^8.12.0"
+  }
+}
