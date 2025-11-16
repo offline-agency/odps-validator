@@ -16,7 +16,7 @@
     "react": "latest",
     "react-dom": "latest",
     "bootstrap": "^5.0.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "ajv": "^8.12.0"
   }
 }
